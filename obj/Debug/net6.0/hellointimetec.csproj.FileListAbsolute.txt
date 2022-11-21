@@ -1,0 +1,15 @@
+C:\source\hellointimetec\bin\Debug\net6.0\hellointimetec.exe
+C:\source\hellointimetec\bin\Debug\net6.0\hellointimetec.deps.json
+C:\source\hellointimetec\bin\Debug\net6.0\hellointimetec.runtimeconfig.json
+C:\source\hellointimetec\bin\Debug\net6.0\hellointimetec.dll
+C:\source\hellointimetec\bin\Debug\net6.0\ref\hellointimetec.dll
+C:\source\hellointimetec\bin\Debug\net6.0\hellointimetec.pdb
+C:\source\hellointimetec\obj\Debug\net6.0\hellointimetec.csproj.AssemblyReference.cache
+C:\source\hellointimetec\obj\Debug\net6.0\hellointimetec.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\hellointimetec\obj\Debug\net6.0\hellointimetec.AssemblyInfoInputs.cache
+C:\source\hellointimetec\obj\Debug\net6.0\hellointimetec.AssemblyInfo.cs
+C:\source\hellointimetec\obj\Debug\net6.0\hellointimetec.csproj.CoreCompileInputs.cache
+C:\source\hellointimetec\obj\Debug\net6.0\hellointimetec.dll
+C:\source\hellointimetec\obj\Debug\net6.0\ref\hellointimetec.dll
+C:\source\hellointimetec\obj\Debug\net6.0\hellointimetec.pdb
+C:\source\hellointimetec\obj\Debug\net6.0\hellointimetec.genruntimeconfig.cache
